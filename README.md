@@ -31,6 +31,8 @@ This repository is a collection of my personal learning journey and experiments 
   - Features data science projects and analysis.
 - **/best_practices/**
   - Best practices, tools, and techniques for effective software development.
+- **/misc/**
+  - miscellaneous things
 
 ## Getting Started
 
