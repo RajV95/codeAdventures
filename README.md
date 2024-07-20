@@ -44,3 +44,22 @@ To get started with any of the projects in this repository:
     cd codeAdventures/<directory>
 3. **Follow the Project-Specific Instructions**
     Each project directory may contain its own `README.md` with specific setup and usage instructions.
+
+## Contributions
+
+1. **Fork the Repository**
+2. **Create a new Branch**
+    ``bash
+    git checkout -b feature/your-feature
+3. **Commit your changes**
+    ``bash
+    git commit -am 'Add new feature'
+4. **Push to the Branch**
+    ``bash
+    git push origin feature/your-feature
+5. **Create a Pull Request**
+
+## Contact
+For any questions or discussions, feel free to reach out:
+- **Email:** rajvardhan202004@gmail.com
+- **Discord:** [jamesgregorywilson](https://discord.com/users/jamesgregorywilson)
